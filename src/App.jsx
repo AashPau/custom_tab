@@ -1,7 +1,12 @@
 import "./App.css";
+import { TabTest } from "./components/TabTest";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <TabTest />
+    </>
+  );
 }
 
 export default App;
